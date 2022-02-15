@@ -1,2 +1,2 @@
 # WheatApexAimbot
- an apex aimbot
+An AI player for APEX Legends
